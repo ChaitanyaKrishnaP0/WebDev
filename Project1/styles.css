@@ -1,0 +1,19 @@
+img {
+    display: block;
+    margin: auto;
+}
+#stat{
+    background-color: black;
+}
+.Occupation{
+    display: flex;
+
+    justify-content:space-evenly;
+    border-bottom: solid white 2px;
+}
+#list{
+    display: flex;
+    margin-left: 25%;
+    margin-right: 25%;
+    justify-content: center;
+}
