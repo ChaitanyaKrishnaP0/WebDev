@@ -1,0 +1,8 @@
+div{
+    width: fit-content;
+    margin: auto;
+}
+#mama{
+    display: flex;
+    width: auto;
+}
